@@ -1,6 +1,3 @@
-Creating a README for your portfolio website is a great way to provide context and instructions for others viewing your project. Here's a template you can use and customize to fit your specific portfolio:
-
----
 
 # Portfolio Website
 
@@ -30,12 +27,12 @@ To view or edit the portfolio, you only need a web browser and a text editor.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-portfolio-repo.git
+   git clone https://github.com/RiniJ7/HTML-portfolio.git
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd your-portfolio-repo
+   cd HTML-portfolio
    ```
 
 3. **Open the `index.html` file in a web browser**:
@@ -52,8 +49,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or feedback, please reach out via email at [your-email@example.com].
+For any inquiries or feedback, please reach out via email rinimani7@gmail.com
 
----
 
-Feel free to customize each section as needed, especially the "Overview," "Features," and "Contact" sections, to better reflect your portfolio's content and your personal details.
